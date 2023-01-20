@@ -1,5 +1,5 @@
 # github-actions-hello-world
-Hello World
+Hello World Python 
 
 [![Python application test with Github Actions](https://github.com/noahgift/github-actions-hello-world/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/github-actions-hello-world/actions/workflows/main.yml)
 
